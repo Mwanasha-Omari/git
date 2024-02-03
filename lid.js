@@ -1,1 +1,1 @@
-console.log("trial init")
+console.log("new trial init")
